@@ -1,14 +1,14 @@
 //
-//  CoreDataDemoTests.swift
-//  CoreDataDemoTests
+//  MusicopediaTests.swift
+//  MusicopediaTests
 //
-//  Created by Swapnil on 26/07/23.
+//  Created by Swapnil on 29/07/23.
 //
 
 import XCTest
-@testable import CoreDataDemo
+@testable import Musicopedia
 
-final class CoreDataDemoTests: XCTestCase {
+final class MusicopediaTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

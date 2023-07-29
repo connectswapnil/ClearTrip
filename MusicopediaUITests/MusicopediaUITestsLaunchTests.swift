@@ -1,13 +1,13 @@
 //
-//  CoreDataDemoUITestsLaunchTests.swift
-//  CoreDataDemoUITests
+//  MusicopediaUITestsLaunchTests.swift
+//  MusicopediaUITests
 //
-//  Created by Swapnil on 26/07/23.
+//  Created by Swapnil on 29/07/23.
 //
 
 import XCTest
 
-final class CoreDataDemoUITestsLaunchTests: XCTestCase {
+final class MusicopediaUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
